@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Base Converter</string>
+    <string-array name="spinnerItems">
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Hexa Decimal</item>
+    </string-array>
+    <string name="action_share_result">Share Result</string>
+    <string name="action_share_app">Share APP</string>
+    <string name="action_rate_app">Rate APP</string>
+    <string name="action_know_rules">Rules of Conversions</string>
+    <string name="action_exit">Exit</string>
+</resources>
